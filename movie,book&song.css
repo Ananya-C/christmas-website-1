@@ -1,0 +1,30 @@
+.movie_head{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+}
+.movie_head i{
+    float:right;
+}
+.movie_text span{
+    color:#ff7700;
+}
+body{
+    background:linear-gradient(aliceblue 0%, violet 90%)
+}
+.gh{
+    color:black;
+    font-size:17;
+}
+.acc{
+    font-size:21;
+    color:rgb(46, 42, 42);
+}
+h1{
+  text-align:center;  
+}
+.pp{
+    font-size:22;
+    color:black;
+}

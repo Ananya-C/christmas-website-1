@@ -1,0 +1,9 @@
+body{
+    background:linear-gradient(aliceblue 0%, rgb(235, 25, 25) 95%);
+    text-align: center;
+}
+#ifo{
+    color:black;
+font-size:16px;
+margin:10px;
+}

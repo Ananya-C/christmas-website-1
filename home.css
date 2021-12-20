@@ -1,0 +1,23 @@
+body{
+    text-align:center;
+    background:linear-gradient(aliceblue 0%, red 40%, rgb(23, 165, 23) 40%);
+}
+.menu{
+    list-style:style;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float:right;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    color:black;
+}
+#info{
+margin:50px;
+font-family: georgia;
+font-size:17px;
+color:black;
+}
+h1{
+    font-size:35px;
+    font-family:times;
+}
